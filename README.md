@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <p align="center"> <img width="250px" src="images/profile_hello_original.png" /> </p>
+  <p align="center"> <img width="250px" src="https://user-images.githubusercontent.com/47173389/91656756-06d3c500-ea70-11ea-9e89-604c22c89e69.png" /> </p>
   <h2 align="center"> Hey there, I'm Shyam! </h2>
 </div>
 
